@@ -1,0 +1,15 @@
+{
+	"name": "theme-monokai-v3",
+	"version": "0.2.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "theme-monokai-v3",
+				"uiTheme": "vs-dark",
+				"path": "./themes/theme-monokai-v3.json"
+			}
+		]
+	}
+}
